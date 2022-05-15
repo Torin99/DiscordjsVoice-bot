@@ -1,0 +1,22 @@
+{
+  "name": "hellow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torin Borton-McCallum",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.9.0",
+    "crc": "^4.1.1",
+    "discord.js": "^13.7.0",
+    "ffmpeg-static": "^4.4.1",
+    "i": "^0.3.7",
+    "npm": "^8.10.0",
+    "prism-media": "^2.0.0-alpha.0",
+    "sodium-native": "^3.3.0"
+  }
+}
